@@ -1,0 +1,9 @@
+{
+    "filament_settings_id": [
+        "MatterHackers PETG"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "MatterHackers PETG",
+    "version": "1.6.0.2"
+}

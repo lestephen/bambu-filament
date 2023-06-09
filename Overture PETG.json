@@ -1,0 +1,21 @@
+{
+    "filament_flow_ratio": [
+        "0.9975"
+    ],
+    "filament_max_volumetric_speed": [
+        "7"
+    ],
+    "filament_settings_id": [
+        "Overture PETG 2.0"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "Overture PETG 2.0",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "version": "1.5.0.19"
+}
