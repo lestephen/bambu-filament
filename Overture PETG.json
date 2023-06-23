@@ -1,4 +1,7 @@
 {
+    "enable_pressure_advance": [
+        "1"
+    ],
     "filament_flow_ratio": [
         "0.9975"
     ],
@@ -6,16 +9,22 @@
         "7"
     ],
     "filament_settings_id": [
-        "Overture PETG 2.0"
+        "Overture PETG"
+    ],
+    "filament_shrink": [
+        "99.3433%"
     ],
     "from": "User",
     "inherits": "Generic PETG",
-    "name": "Overture PETG 2.0",
+    "name": "Overture PETG",
     "nozzle_temperature": [
         "260"
     ],
     "nozzle_temperature_initial_layer": [
         "265"
+    ],
+    "pressure_advance": [
+        "0.074"
     ],
     "version": "1.5.0.19"
 }

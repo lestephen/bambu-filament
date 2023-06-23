@@ -1,4 +1,7 @@
 {
+    "enable_pressure_advance": [
+        "1"
+    ],
     "fan_max_speed": [
         "70"
     ],
@@ -20,6 +23,9 @@
     "from": "User",
     "inherits": "Generic PETG",
     "name": "Overture PETG Printables",
+    "pressure_advance": [
+        "0.036"
+    ],
     "slow_down_layer_time": [
         "6"
     ],

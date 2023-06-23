@@ -2,8 +2,17 @@
     "filament_settings_id": [
         "MatterHackers PETG"
     ],
+    "filament_shrink": [
+        "99.3433%"
+    ],
     "from": "User",
     "inherits": "Generic PETG",
     "name": "MatterHackers PETG",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
     "version": "1.6.0.2"
 }

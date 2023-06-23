@@ -1,0 +1,27 @@
+{
+    "filament_max_volumetric_speed": [
+        "2.5"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Generic TPU - Printables"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n{if (bed_temperature[current_extruder] >35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S50\n{elsif (bed_temperature[current_extruder] >30)||(bed_temperature_initial_layer[current_extruder] >30)}M106 P3 S50\n{endif}"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "name": "Generic TPU - Printables",
+    "nozzle_temperature_range_high": [
+        "251"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.4.1.4"
+}

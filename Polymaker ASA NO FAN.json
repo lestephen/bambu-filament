@@ -22,6 +22,7 @@
         "95"
     ],
     "inherits": "Generic ASA",
+    "is_custom_defined": "0",
     "name": "Polymaker ASA NO FAN",
     "textured_plate_temp": [
         "95"
