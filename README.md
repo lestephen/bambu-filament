@@ -8,8 +8,8 @@ These profiles will work with both [BambuStudio](https://github.com/bambulab/Bam
 1. Close your slicer program.
 1. Copy the desired filament JSON file to the appropriate filament profile directory for your slicer:
    - Windows
-     - BambuStudio: %AppData%\Roaming\BambuStudio\user\default\filament
-     - OrcaSlicer: %AppData%\Roaming\OrcaSlicer\user\default\filament
+     - BambuStudio: %AppData%\BambuStudio\user\default\filament
+     - OrcaSlicer: %AppData%\OrcaSlicer\user\default\filament
 1. Re-open your slicer program. The filament profiles will show up "User Presets".
 
 NOTE: If you have installed the Bambu Network plug-in, filament profiles may be stored under a numeric user name instead of "default".
